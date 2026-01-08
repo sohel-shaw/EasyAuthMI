@@ -28,3 +28,5 @@ In the tutorial, you learn:
 ## Read the tutorial
 
 [Read the tutorial](https://learn.microsoft.com/azure/app-service/tutorial-auth-aad) to understand how to deploy this scenario to App Service.
+<br>
+Author : Sohel Shaw
